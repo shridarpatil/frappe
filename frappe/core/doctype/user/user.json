@@ -1945,9 +1945,13 @@
    "collapsible": 0, 
    "columns": 0, 
 <<<<<<< HEAD
+<<<<<<< HEAD
    "description": "API Key cannot be  regenerated", 
 =======
 >>>>>>> token based authentication
+=======
+   "description": "API Key cannot be  regenerated", 
+>>>>>>> test added
    "fieldname": "api_key", 
    "fieldtype": "Data", 
    "hidden": 0, 
@@ -1971,10 +1975,14 @@
    "search_index": 0, 
    "set_only_once": 0, 
 <<<<<<< HEAD
+<<<<<<< HEAD
    "unique": 1
 =======
    "unique": 0
 >>>>>>> token based authentication
+=======
+   "unique": 1
+>>>>>>> test added
   }, 
   {
    "allow_bulk_edit": 0, 
@@ -2057,6 +2065,10 @@
    "precision": "", 
    "print_hide": 0, 
    "print_hide_if_no_value": 0, 
+<<<<<<< HEAD
+=======
+   "read_only": 1, 
+>>>>>>> test added
    "remember_last_selected_value": 0, 
    "report_hide": 0, 
    "reqd": 0, 
